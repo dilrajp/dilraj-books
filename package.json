@@ -27,7 +27,6 @@
     "react-bootstrap": "^1.0.1",
     "react-debounce-input": "^3.2.2",
     "react-dom": "^18",
-    "react-moment": "^0.9.7",
     "tailwindcss": "^3.3.3"
   },
   "devDependencies": {
